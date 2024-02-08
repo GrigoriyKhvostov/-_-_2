@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Учёба\infuck\Project3\Project3\Source.cpp(16,27): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Учёба\infuck\Project3\Project3\Source.cpp(28,24): warning C4018: >=: несоответствие типов со знаком и без знака
-C:\Учёба\infuck\Project3\Project3\Source.cpp(49,24): warning C4018: >=: несоответствие типов со знаком и без знака
-  Project3.vcxproj -> C:\Учёба\infuck\Project3\Debug\Project3.exe
